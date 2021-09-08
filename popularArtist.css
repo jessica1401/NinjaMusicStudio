@@ -1,0 +1,81 @@
+/* Code For popular artist Div */
+.popular_artist {
+  width: 99%;
+  min-height: 200px;
+}
+
+.artist_box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+}
+
+.artist_box .img {
+  width: 150px;
+  height: 200px;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.artist_box .img .img1:hover,
+.img2:hover,
+.img3:hover,
+.img4:hover,
+.img5:hover,
+.img6:hover {
+  border: 2.3px solid silver;
+  transform: scale(0.9);
+}
+
+.img1,
+.img2,
+.img3,
+.img4,
+.img5,
+.img6 {
+  width: 100%;
+  height: 150px;
+  border-radius: 70px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: 1s ease-in-out;
+}
+
+.img1 {
+  background-image: url("https://prod-bb-images.akamaized.net/book-covers/coverimage-9780008267544-harpercollinsuk-2021-06-15.tif?w=200&format=jpg&quality=85");
+}
+
+.img2 {
+  background-image: url("https://cdns-images.dzcdn.net/images/artist/e65d62ecd00b8bf1ba89073943ac62a1/500x500.jpg");
+}
+
+.img3 {
+  background-image: url("https://yt3.ggpht.com/ytc/AKedOLR6FdTEJ3xyn9HTHPgYnDHtKx8-IpHErmaiG1uqHw=s900-c-k-c0x00ffffff-no-rj");
+}
+
+.img4 {
+  background-image: url("https://media.newyorker.com/photos/5b16cfe87018915289e3cb28/master/pass/StFelix-Charlie-Puth.jpg");
+}
+
+.img5 {
+  background-image: url("https://pyxis.nymag.com/v1/imgs/c80/b6e/103dd12310dad6616544efcc105cfdf554-09-imagine-dragons.rsocial.w1200.jpg");
+}
+
+.img6 {
+  background-image: url("https://static.billboard.com/files/media/bruno-mars-performance-2017-feb-billboard-1548-compressed.jpg");
+}
+
+.singer_name {
+  color: var(--colorWhite);
+  text-align: center;
+  margin-top: 10px;
+  font-size: 17px;
+  font-weight: bolder;
+}
