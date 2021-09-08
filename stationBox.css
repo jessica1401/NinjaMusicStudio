@@ -32,33 +32,33 @@
 }
 
 .station_box_inner_box:nth-child(1) {
-  background-image: url("https://img.wallpapersafari.com/tablet/768/1024/56/42/Pra97S.jpg");
+  background-image: url("./assests/station/stationImage.jpg");
   filter: grayscale(40%);
 }
 
 .station_box_inner_box:nth-child(2) {
-  background-image: url("https://www.rd.com/wp-content/uploads/2020/12/GettyImages-155278338-e1607021370174.jpg");
+  background-image: url("./assests/station/love.jpg");
   filter: grayscale(80%);
 }
 
 .station_box_inner_box:nth-child(3) {
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLAO9vz3neTtMcvKZtyYRfxyOi6k_EbydRg&usqp=CAU");
+  background-image: url("./assests/station/retro.jpg");
   filter: saturate(60%);
 }
 
 .station_box_inner_box:nth-child(4) {
-  background-image: url("https://pbs.twimg.com/media/E3dQGi4WQAA2lRI.jpg");
+  background-image: url("./assests/station/chill.jpg");
   filter: brightness(50%);
 }
 
 .station_box_inner_box:nth-child(5) {
-  background-image: url("https://www.muscleandfitness.com/wp-content/uploads/2019/07/Hands-Clapping-Chaulk-Kettlebell.jpg?quality=86&strip=all");
+  background-image: url("./assests/station/workout.jpg");
 }
 
 .station_box_inner_box:nth-child(6) {
-  background-image: url("https://api.time.com/wp-content/uploads/2020/11/best-songs-2020.jpg");
+  background-image: url("./assests/station/pop.jpg");
 }
 
 .station_box_inner_box:nth-child(7) {
-  background-image: url("https://cdn.lifehack.org/wp-content/uploads/2015/09/rock-music-wallpapers.jpg");
+  background-image: url("./assests/station/rock.jpg")
 }

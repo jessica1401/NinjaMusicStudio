@@ -41,7 +41,7 @@
 }
 
 .playerImage {
-  background-image: url("https://s3.envato.com/files/252998721/_DSC4442.jpg");
+  background-image: url("./assests/player/player_image.jpg");
   height: 70px;
   width: 100px;
   background-size: cover;

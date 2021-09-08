@@ -40,27 +40,27 @@
 }
 
 .latest_box_image1 {
-  background-image: url("https://images.unsplash.com/photo-1521491611010-d9fe4222dcae?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80");
+  background-image: url("./assests/latest_english/image1.jpg");
 }
 
 .latest_box_image2 {
-  background-image: url("https://www.wallpaperkiss.com/wimg/b/197-1978116_big.jpg");
+  background-image: url("./assests/latest_english/image2.jpg");
 }
 
 .latest_box_image3 {
-  background-image: url("https://api.time.com/wp-content/uploads/2019/09/flower.jpg");
+  background-image: url("./assests/latest_english/image3.jpg");
 }
 
 .latest_box_image4 {
-  background-image: url("https://images.creativemarket.com/0.1.0/ps/4821935/1820/1311/m1/fpnw/wm1/gacz5ed96iqtvsvvknn69pohged4ukd2zu6umq90wu0qnq9ykk1vsqtfe3geetgr-.jpg?1532693995&s=9fc5eb8a4712bcb6672c6b7a8f764f15");
+  background-image: url("./assests/latest_english/image4.jpg");
 }
 
 .latest_box_image5 {
-  background-image: url("https://www.cnet.com/a/img/2JJTAqanK_pIbSrpA17VXXneGQY=/1200x630/2021/03/29/1c2386e1-53b8-4a19-803d-08abd7ffe77e/floom.jpg");
+  background-image: url("./assests/latest_english/image5.jpeg");
 }
 
 .latest_box_image6 {
-  background-image: url("https://images.herzindagi.info/image/2021/Apr/flower-valley-you-have-to-go-s.jpg");
+  background-image: url("./assests/latest_english/image6.jpg");
 }
 
 .latest_box h3 {

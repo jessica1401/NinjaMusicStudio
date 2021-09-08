@@ -53,13 +53,13 @@
 }
 
 .type_box:nth-child(1) {
-  background-image: url("https://www.theschooloflife.com/thebookoflife/wp-content/uploads/2020/09/dance-1024x514.jpg");
+  background-image: url("./assests/type/dance.jpg");
 }
 
 .type_box:nth-child(2) {
-  background-image: url("https://musicianonamission.com/wp-content/uploads/2016/11/2015-04-27-Master-the-Art-of-Post-Mixing-FEATURED-IMAGE-1280x720.jpg");
+  background-image: url("./assests/type/electronics.jpg");
 }
 
 .type_box:nth-child(3) {
-  background-image: url("https://imgix.bustle.com/mic/ysxgew1o22akh3v9ck3kdjfkodhfogsb0r9czxcp1wlmmyvqke2hysh4pmcetixu.jpg?w=1020&h=576&fit=crop&crop=faces&auto=format%2Ccompress");
+  background-image: url("./assests/type/road_trip.jpg");
 }

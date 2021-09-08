@@ -20,15 +20,15 @@
 }
 
 .image1 {
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXZh1M2PrGYGcI40_782gnH_7I07oIRdW_w&usqp=CAU");
+  background-image: url("./assests/headerImages/image1.jpg");
 }
 
 .image2 {
-  background-image: url("https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/af/be/58/afbe589a-41d3-e8a7-9985-c761c4b6ee7d/source/1200x1200bb-60.jpg");
+  background-image: url("./assests/headerImages/image2.jpg");
 }
 
 .image3 {
-  background-image: url("https://c.saavncdn.com/428/Latin-Club-Hits-Tropical-Pop-Urban-Latino-Dance-English-2014-500x500.jpg");
+  background-image: url("./assests/headerImages/image3.jpg");
 }
 
 .image1:hover,
@@ -98,7 +98,7 @@ div.page__latest__release {
 .album__image {
   width: 6rem;
   height: 6rem;
-  background: url("https://s3.envato.com/files/252998721/_DSC4442.jpg");
+  background: url("./assests/latestRelease/latest_release_image.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 10px;

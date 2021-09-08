@@ -95,7 +95,7 @@ input[type="checkbox"] {
 .image_right_song {
   width: 45px;
   height: 45px;
-  background-image: url("https://media1.popsugar-assets.com/files/thumbor/c3YUj_3-zXLLResVMnMXkfGM8NY/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2017/04/10/783/n/1922283/ebd2fdcc43cb5887_13RW_105_02392R/i/13-Reasons-Why-Pictures.jpeg");
+  background-image: url("./assests/rightSection/song_image.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   margin-right: 10px;

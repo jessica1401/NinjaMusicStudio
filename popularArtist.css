@@ -49,27 +49,27 @@
 }
 
 .img1 {
-  background-image: url("https://prod-bb-images.akamaized.net/book-covers/coverimage-9780008267544-harpercollinsuk-2021-06-15.tif?w=200&format=jpg&quality=85");
+  background-image: url("./assests/popularArtist/ed_sheeran.jpg");
 }
 
 .img2 {
-  background-image: url("https://cdns-images.dzcdn.net/images/artist/e65d62ecd00b8bf1ba89073943ac62a1/500x500.jpg");
+  background-image: url("./assests/popularArtist/cold_play.jpg");
 }
 
 .img3 {
-  background-image: url("https://yt3.ggpht.com/ytc/AKedOLR6FdTEJ3xyn9HTHPgYnDHtKx8-IpHErmaiG1uqHw=s900-c-k-c0x00ffffff-no-rj");
+  background-image: url("./assests/popularArtist/zayn.jpg");
 }
 
 .img4 {
-  background-image: url("https://media.newyorker.com/photos/5b16cfe87018915289e3cb28/master/pass/StFelix-Charlie-Puth.jpg");
+  background-image: url("./assests/popularArtist/charlie_puth.jpg");
 }
 
 .img5 {
-  background-image: url("https://pyxis.nymag.com/v1/imgs/c80/b6e/103dd12310dad6616544efcc105cfdf554-09-imagine-dragons.rsocial.w1200.jpg");
+  background-image: url("./assests/popularArtist/imagine-dragons.jpg");
 }
 
 .img6 {
-  background-image: url("https://static.billboard.com/files/media/bruno-mars-performance-2017-feb-billboard-1548-compressed.jpg");
+  background-image: url("./assests/popularArtist/burno_mars.jpg");
 }
 
 .singer_name {
