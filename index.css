@@ -17,6 +17,7 @@
   margin: 0;
   padding: 0;
   font-family: "Poppins", sans-serif;
+  background-color: var(--mainColor);
 }
 
 a {
@@ -37,16 +38,18 @@ a {
 .left_section {
   position: absolute;
   width: 70%;
-  height: 678px;
-  overflow: auto;
+  height: auto;
+  /* overflow: auto; */
+  background-color: var(--mainColor);
 }
 
 .right_section {
   width: 30%;
-  height: 650px;
+  height: 900px;
   position: absolute;
   left: 70%;
-  overflow: auto;
+  /* overflow: auto; */
+  background-color: var(--mainColor);
   color: var(--colorWhite);
   padding-top: 20px;
 }
